@@ -1,0 +1,20 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "Here I am going to show how a project is initialised using express.",
+  "homepage": "https://github.com/ithesaurabh/learning-express#readme",
+  "bugs": {
+    "url": "https://github.com/ithesaurabh/learning-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ithesaurabh/learning-express.git"
+  },
+  "license": "ISC",
+  "author": "Saurabh Jha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
